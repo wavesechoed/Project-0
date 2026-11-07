@@ -1,0 +1,67 @@
+.section-one {
+background-color: #1F2937;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding: 0px 0px 20px 0px;
+}
+
+.header {
+display: flex;
+justify-content: space-between;
+padding: 20px;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+.title {
+font-weight: bold;
+font-size: 24px;
+color: #F9FAF8;
+}
+
+.links {
+display: flex;
+gap: 16px;
+}
+
+a {
+text-decoration: none;
+color: #F9FAF8;
+}
+
+img {
+width: 380px;
+}
+
+.card {
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-left: 50px;
+margin-right: 50px;
+padding: 20px;
+}
+
+button {
+width: fit-content;
+margin-top: 10px;
+padding: 5px 15px 5px 15px;
+background-color: #3882F6;
+color: white;
+border: none;
+border-radius: 8px;
+}
+
+.cardtitle {
+font-weight: bold;
+font-size: 40px;
+color: #F9FAF8;
+}
+
+.left-card {
+max-width: 300px;
+}
+
+.cardparagraph {
+font-size: 16px;
+color: #E5E7EB;
+}
